@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://123.56.146.94/SunWuKong.ipa</string>
+                    <string>http://123.56.146.94:8080/beidou/SunWuKong.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
